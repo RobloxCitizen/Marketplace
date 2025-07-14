@@ -33,6 +33,6 @@ Additional components:
 
 1. Clone the repository:
 
-`bash
+```bash
 git clone https://github.com/your-username/marketplace.git
 cd marketplace

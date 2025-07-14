@@ -1,0 +1,18 @@
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore environment variable files
+.env
+
+# Ignore build artifacts
+target/
+
+# Ignore sensitive config files
+docker-compose.yml
+init-db.sh
+*.yml
+*.properties
+
+# Ignore test output files
+test-output.txt

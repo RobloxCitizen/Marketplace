@@ -1,0 +1,7 @@
+{
+  "type": "EMAIL",
+  "recipient": "user@example.com",
+  "subject": "Order Confirmation",
+  "content": "Your order has been placed",
+  "orderId": 1
+}

@@ -21,7 +21,7 @@ Additional components:
 ## 📦 Technologies
 
 - Java 17
-- Spring Boot 3.x
+- Spring Boot 3.2.0
 - Spring Data JPA
 - Spring Security (JWT)
 - Spring Kafka
